@@ -1,0 +1,17 @@
+{
+  "name": "to-do-angular",
+  "homepage": "https://github.com/brianqeep/angular1",
+  "authors": [
+    "brianqeep <brites009@gmail.com>"
+  ],
+  "description": "just a test",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
